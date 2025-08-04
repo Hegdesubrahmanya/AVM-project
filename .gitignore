@@ -1,0 +1,19 @@
+# Ignore XAMPP/Windows files
+Thumbs.db
+ehthumbs.db
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Icon?
+Desktop.ini
+
+# Ignore vendor libraries (optional if using composer)
+vendor/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore environment config (if any)
+.env
